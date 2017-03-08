@@ -1,0 +1,19 @@
+
+html, 
+body { 
+    height: 100%;
+}
+
+#cover  {
+    background: #222 url('imgcover.png') center center no-repeat;
+    background-size : cover;
+    height : 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color : #fff;
+}
+
+#cover-caption {
+    width: 100%;
+}
